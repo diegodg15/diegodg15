@@ -1,9 +1,9 @@
 <h1 align="center">Hola, soy Diego Guerrero</h1>
 <h3 align="center">Desarrollador de software</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, MySQL, SQL Server**
+- Tecnologías **HTML, CSS, JavaScript, Java, MySQL, SQL Server**
 
-- 📫 How to reach me **diego.guerrero5dg@outlook.com**
+- EMAIL **diego.guerrero5dg@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
