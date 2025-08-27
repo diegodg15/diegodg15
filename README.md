@@ -7,7 +7,8 @@
 
 <h3 align="left">Mi LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego guerrero gonzález" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego guerrero gonzález" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/diego-guerrero-gonzález-03b5b0300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego guerrero gonzález" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Herramientas y lenguajes:</h3>
