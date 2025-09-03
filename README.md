@@ -1,4 +1,5 @@
 <h1 align="center">Diego Guerrero</h1>
+<hr>
 <h3 align="center">Ingeniero en Informática/Software </h3>
 
 - Tecnologías: **HTML, CSS, JavaScript, Java, C#, MySQL, SQL Server**
