@@ -1,13 +1,9 @@
-<h1 align="center">Diego Guerrero</h1>
-<hr>
-<h3 align="center">Ingeniero en Informática/Software </h3>
-
 
 <h1 align="center">Diego Guerrero</h1>
 <hr>
-<h3 align="center">Ingeniero en Informática/Software </h3>
+<h3 align="center">Ingeniero en Informática </h3>
 
-- Tecnologías: **HTML, CSS, JavaScript, Java, MySQL, SQL Server**
+- Tecnologías: **HTML, CSS, JavaScript, TypeScript, SQL Server**
 
 - EMAIL: **diego.guerrero5dg@outlook.com**
 
