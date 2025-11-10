@@ -32,9 +32,9 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [diegodg15/diegodg15](https://github.com/diegodg15/diegodg15)<br>
-2. ⬆️ Pushed undefined commit(s) to [diegodg15/diegodg15](https://github.com/diegodg15/diegodg15)<br>
-3. ⬆️ Pushed undefined commit(s) to [diegodg15/diegodg15](https://github.com/diegodg15/diegodg15)<br>
+1. ⬆️ Pushed undefined commit(s) to [diegodg15/MiCuartoRepo](https://github.com/diegodg15/MiCuartoRepo)<br>
+2. 💪 Opened PR [#1](undefined) in [diegodg15/MiCuartoRepo](https://github.com/diegodg15/MiCuartoRepo)<br>
+3. ⬆️ Pushed undefined commit(s) to [diegodg15/MiCuartoRepo](https://github.com/diegodg15/MiCuartoRepo)<br>
 4. ⬆️ Pushed undefined commit(s) to [diegodg15/diegodg15](https://github.com/diegodg15/diegodg15)<br>
 5. ⬆️ Pushed undefined commit(s) to [diegodg15/diegodg15](https://github.com/diegodg15/diegodg15)<br>
 <!--RECENT_ACTIVITY:end-->
