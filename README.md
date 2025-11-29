@@ -32,11 +32,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
+1. ⭐ Starred [ivansipiran/AED-Apuntes](https://github.com/ivansipiran/AED-Apuntes)<br>
 2. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
-3. ⬆️ Pushed undefined commit(s) to [diegodg15/GIT-PRACTICA02](https://github.com/diegodg15/GIT-PRACTICA02)<br>
-4. 💪 Opened PR [#1](undefined) in [diegodg15/GIT-PRACTICA02](https://github.com/diegodg15/GIT-PRACTICA02)<br>
-5. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
+3. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
+4. ⬆️ Pushed undefined commit(s) to [diegodg15/GIT-PRACTICA02](https://github.com/diegodg15/GIT-PRACTICA02)<br>
+5. 💪 Opened PR [#1](undefined) in [diegodg15/GIT-PRACTICA02](https://github.com/diegodg15/GIT-PRACTICA02)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
