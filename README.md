@@ -32,10 +32,10 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS-HTML](https://github.com/diegodg15/FUNDAMENTOS-HTML)<br>
-2. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
-3. ⭐ Starred [ivansipiran/AED-Apuntes](https://github.com/ivansipiran/AED-Apuntes)<br>
-4. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
+1. ⭐ Starred [sct-utfsm/INF-285](https://github.com/sct-utfsm/INF-285)<br>
+2. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS-HTML](https://github.com/diegodg15/FUNDAMENTOS-HTML)<br>
+3. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
+4. ⭐ Starred [ivansipiran/AED-Apuntes](https://github.com/ivansipiran/AED-Apuntes)<br>
 5. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
 <!--RECENT_ACTIVITY:end-->
 
