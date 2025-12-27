@@ -32,11 +32,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Puyodead1/udemy-downloader](https://github.com/Puyodead1/udemy-downloader)<br>
-2. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
-3. ⭐ Starred [sct-utfsm/INF-285](https://github.com/sct-utfsm/INF-285)<br>
-4. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS-HTML](https://github.com/diegodg15/FUNDAMENTOS-HTML)<br>
-5. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
+1. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
+2. ⭐ Starred [Puyodead1/udemy-downloader](https://github.com/Puyodead1/udemy-downloader)<br>
+3. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
+4. ⭐ Starred [sct-utfsm/INF-285](https://github.com/sct-utfsm/INF-285)<br>
+5. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS-HTML](https://github.com/diegodg15/FUNDAMENTOS-HTML)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
