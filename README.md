@@ -32,10 +32,6 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [diegodg15/FUNDAMENTOS_JAVASCRIPT](https://github.com/diegodg15/FUNDAMENTOS_JAVASCRIPT)<br>
-2. ⬆️ Pushed undefined commit(s) to [diegodg15/diegodg15](https://github.com/diegodg15/diegodg15)<br>
-3. ⬆️ Pushed undefined commit(s) to [diegodg15/diegodg15](https://github.com/diegodg15/diegodg15)<br>
-4. ⭐ Starred [makeitrealcamp/ejercicios-javascript](https://github.com/makeitrealcamp/ejercicios-javascript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
