@@ -33,7 +33,6 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)<br>
-2. ⭐ Starred [Su-sid/Microsoft-Office-2021](https://github.com/Su-sid/Microsoft-Office-2021)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
