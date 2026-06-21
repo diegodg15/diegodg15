@@ -32,7 +32,6 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
